@@ -1,2 +1,5 @@
 # hash-tests
- Tests 
+ 
+ Running the scripts:
+ 
+    node src/script.js
